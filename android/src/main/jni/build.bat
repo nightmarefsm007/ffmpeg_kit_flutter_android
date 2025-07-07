@@ -2,7 +2,7 @@
 setlocal
 
 rem Android AAR download URL
-set ANDROID_URL=https://github.com/sk3llo/ffmpeg_kit_flutter/releases/download/7.0/ffmpeg-kit-full-gpl-7.0.aar
+set ANDROID_URL=https://github.com/nightmarefsm007/ffmpeg_kit_flutter_android/releases/download/6.2/ffmpeg-kit-min-6.0-2.LTS.aar
 
 rem Create libs directory if it doesn't exist
 if not exist libs (
